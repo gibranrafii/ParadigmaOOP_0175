@@ -1,9 +1,9 @@
 #include <iostream>
-#include <string>
+#include <vector>
 using namespace std;
 
 #include "anak.h"
-#include "ibu.h";
+#include "ibu.h"
 
 int main()
 {
